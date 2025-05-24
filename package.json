@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ai": "^4.3.16",
+    "lucide-react": "^0.511.0"
+  }
+}
